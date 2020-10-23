@@ -72,6 +72,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 |--------------------------:|:---------------------|---|---------------------:|:-------------------------------------|
 | MS SQL Server             |https://www.youtube.com/playlist?list=PLHUiHsvHlPzL76O9SeUKpnx45dkftrP7y |   | Paypal |  https://www.paypal.me/iamhasanhabib                |
 | Asp.Net Core              |https://www.youtube.com/playlist?list=PLHUiHsvHlPzLcx856PZpyuFXIhwaqTrvH |   | Paypal |  https://www.paypal.me/iamhasanhabib                 |
+| SQL - Tips and Tricks     |https://www.youtube.com/playlist?list=PLHUiHsvHlPzK_hZoyMrkZv85Yyyi6SOb7 |   |  |                 |
 |                           | |   | :point_right:        | Follow Us                            |
 |                           | |   |Website               |http://www.devopshasan.com          |
 |                           | |   |YouTube               |https://www.youtube.com/devopshasan  |
